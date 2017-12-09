@@ -38,7 +38,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" 🔯Satria Bot🔯
+helpMessage =""" 🔯Moris Bot🔯
 
 🔯Command Bot🔯
 
@@ -98,7 +98,7 @@ helpMessage =""" 🔯Satria Bot🔯
 ✴Contact on/off [Contact Share]
 ✴Jam on/off [Time And Name Bot]
 
-̶✍̶̶ե̶̶ҽ̶̶α̶̶ต̶ ̶ճ̶̶օ̶̶ե̶ ̶հ̶̶α̶̶ղ̶̶s̶̶k̶̶í̶̶l̶̶l̶̶s̶✈
+̶✍̶̶Morris self bot✈
 
 """
 KAC=[cl,ki,kk,kc,kd,ke,kf]
